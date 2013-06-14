@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This zigzag.c is derived from zigzag.f.  Which is from TTR of R pacakge.
 
 I use f2c to translate from fortran to C without any problem.
@@ -18,3 +19,9 @@ Any feedback are welcome!
 
 Enjoy!
 			Perlawk, 2013-06-14
+=======
+zzindic
+=======
+
+A zigzag indicator in C
+>>>>>>> bd73dc5fc8032903980c0fd75f575f7c2627dd5b
